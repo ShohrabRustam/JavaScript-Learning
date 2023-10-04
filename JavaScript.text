@@ -8,3 +8,12 @@ the reserve word in js called keyword and the word is not reserved in js called 
     defining a variable/function after called know as hoisting
         ex:- console.log(a) // undefine 
              var a = 10;
+
+
+- type in js 
+    mainly there are two types of js
+        1. premitive => number, string, null, undefine boolen
+        2. reference => []Array, ()set, {}Object
+
+        premitive : if we copy a variable and the actual copy happen knowing ass premitive type.
+        reference : A value if we copy the real copy is not happen only reference passs of that value known as reference type
