@@ -4,3 +4,7 @@ the reserve word in js called keyword and the word is not reserved in js called 
 - var const let
   const can be define at once it can not be redefine but var and let can be
 
+- hoisting
+    defining a variable/function after called know as hoisting
+        ex:- console.log(a) // undefine 
+             var a = 10;
