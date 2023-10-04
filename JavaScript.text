@@ -1,0 +1,6 @@
+- word vs keyword
+the reserve word in js called keyword and the word is not reserved in js called as word.
+
+- var const let
+  const can be define at once it can not be redefine but var and let can be
+
