@@ -15,5 +15,10 @@ the reserve word in js called keyword and the word is not reserved in js called 
         1. premitive => number, string, null, undefine boolen
         2. reference => []Array, ()set, {}Object
 
-        premitive : if we copy a variable and the actual copy happen knowing ass premitive type.
-        reference : A value if we copy the real copy is not happen only reference passs of that value known as reference type
+        premitive : if we copy a variable and the actual copy happen knowing as premitive type.
+        reference : A value if we copy the real copy is not happen only reference passs of that value known as reference type.
+  
+  let var and const 
+  var = having function scope
+  let = having block scope can change value
+  const = having block scope and can not change value
