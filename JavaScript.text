@@ -22,3 +22,12 @@ the reserve word in js called keyword and the word is not reserved in js called 
   var = having function scope
   let = having block scope can change value
   const = having block scope and can not change value
+
+  js language don't have some thing but we can use in js such type of things we get from browser.
+
+  all the features which is not part of js language but we can find out with the help of perticular object know as window.
+
+  execution context : when we run a function it make own imaginory container that contain three things
+                    1. variable
+                    2. function inside parent function
+                    4.laxical environment of function => scope of var and func
