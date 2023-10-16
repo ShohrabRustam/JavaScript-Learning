@@ -31,3 +31,9 @@ the reserve word in js called keyword and the word is not reserved in js called 
                     1. variable
                     2. function inside parent function
                     4.laxical environment of function => scope of var and func
+
+
+ How to copy references variables?
+      using the spread operator:
+            var a = { a: 1, b: 2};
+            var b = {...a};
