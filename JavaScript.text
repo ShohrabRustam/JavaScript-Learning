@@ -37,3 +37,7 @@ the reserve word in js called keyword and the word is not reserved in js called 
       using the spread operator:
             var a = { a: 1, b: 2};
             var b = {...a};
+
+Truly and Falsy 
+
+    Falsy: 0, false,undefine,null,NaN, document.all 
