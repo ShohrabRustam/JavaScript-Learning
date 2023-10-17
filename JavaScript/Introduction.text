@@ -54,3 +54,7 @@ ECMAScript 5 Syntactical Changes
 Browser Support for ES5 (2009)
     Chrome 23, IE 10, and Safari 6 were the first browsers to fully support ECMAScript 5:
 
+Browser Working with JavaScript?
+    Every major browser has a JavaScript engine that executes JavaScript code. 
+    The most popular one is the Google Chrome V8 engine. 
+    Google's V8 powers Google Chrome and Node.
