@@ -58,3 +58,14 @@ Browser Working with JavaScript?
     Every major browser has a JavaScript engine that executes JavaScript code. 
     The most popular one is the Google Chrome V8 engine. 
     Google's V8 powers Google Chrome and Node.
+
+
+How JavaScript works and how code executes?
+    is JavaScript is synchronous or asynchronous?
+    is JavaScript is single threaded or multi-threaded?
+
+    "Everything in JavaScript happen in execution context"
+
+    Execution context is a container mainly two components memory and code components
+    memory components known as variables environment, and code components known as 
+    thread of execution context.
