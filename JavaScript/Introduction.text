@@ -69,3 +69,5 @@ How JavaScript works and how code executes?
     Execution context is a container mainly two components memory and code components
     memory components known as variables environment, and code components known as 
     thread of execution context.
+
+JavaScript is a synchronous single-threaded language
