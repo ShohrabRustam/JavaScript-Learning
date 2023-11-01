@@ -71,3 +71,19 @@ How JavaScript works and how code executes?
     thread of execution context.
 
 JavaScript is a synchronous single-threaded language
+
+
+What is Temporal Dead Zone ?
+
+    when we delcare a variable using let and const variables are hoisted in temperary Dead Zone.
+
+    phase from hoisting till get/assign some value that phase known as temporal dead zone.
+
+Are let & const decleration are hoisted?
+
+    when we delcare a variable using let and const variables are hoisted in temperary Dead Zone(seperate memory space ).
+
+What is the difference between syntaxError , referenceError and typeError?
+
+when we are trying to access a variable inside the temperary dead zone we get 
+referenceError.
